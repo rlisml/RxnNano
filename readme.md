@@ -1,5 +1,5 @@
-# ReactionLLM: Data-Centric  Learning for Compact Chemical reaction prediction model
-
+# RxnNano: RxnNano:Training Compact LLMs for Chemical Reaction and
+Retrosynthesis Prediction via Hierarchical Curriculum Learning
 
 ## Table of Contents
 - [Features](#features)
