@@ -1,4 +1,4 @@
-# ReactionLLM: Data-Centric  Learning for Compact Chemical reaction prediction model
+# RxnNano: A Compact LLM for Single-Step Reaction Prediction via Hierarchical Curriculum Learning
 
 
 ## Table of Contents
@@ -31,7 +31,6 @@
 1. Clone the repository:
 ```bash
 git clone 
-cd ReactionLLM
 ```
 
 2. Create and activate a conda environment:
